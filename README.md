@@ -27,11 +27,10 @@ This is a simple console-based contact management system implemented in C++. It 
 - `Phonebook Contacts/`: Directory to store individual contact files.
 
 ## Contributors
-- [Your Name]: [Your GitHub Profile](link)
+- Marwan Tamer: (https://github.com/MarwanTamer25)
+- Passant Ahmed: (https://github.com/passantkamal) 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Feel free to customize this README file according to your project's specifics and requirements.
